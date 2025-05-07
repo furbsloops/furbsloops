@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FurbsLoops</h1>
+<h1 align="center">Hi 👋, I'm Federico Urpi</h1>
 <h3 align="center">A passionate full-stack engineer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furbsloops&label=Profile%20views&color=0e75b6&style=flat" alt="furbsloops" /> </p>
